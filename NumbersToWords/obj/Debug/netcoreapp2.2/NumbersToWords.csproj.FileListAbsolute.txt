@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/netcoreapp2.2/NumbersToWords.csprojAssemblyReference.cache
+/Users/Guest/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/netcoreapp2.2/NumbersToWords.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/netcoreapp2.2/NumbersToWords.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/netcoreapp2.2/NumbersToWords.AssemblyInfo.cs
+/Users/Guest/Desktop/NumbersToWords.solution/NumbersToWords/bin/Debug/netcoreapp2.2/NumbersToWords.deps.json
+/Users/Guest/Desktop/NumbersToWords.solution/NumbersToWords/bin/Debug/netcoreapp2.2/NumbersToWords.runtimeconfig.json
+/Users/Guest/Desktop/NumbersToWords.solution/NumbersToWords/bin/Debug/netcoreapp2.2/NumbersToWords.runtimeconfig.dev.json
+/Users/Guest/Desktop/NumbersToWords.solution/NumbersToWords/bin/Debug/netcoreapp2.2/NumbersToWords.dll
+/Users/Guest/Desktop/NumbersToWords.solution/NumbersToWords/bin/Debug/netcoreapp2.2/NumbersToWords.pdb
+/Users/Guest/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/netcoreapp2.2/NumbersToWords.dll
+/Users/Guest/Desktop/NumbersToWords.solution/NumbersToWords/obj/Debug/netcoreapp2.2/NumbersToWords.pdb
